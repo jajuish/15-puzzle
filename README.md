@@ -5,4 +5,4 @@
 This is a C code to implement and play the game.
 
 simple.c plays the game on a command line.
-para-sol.c is the parallely implemented solution using OpenMP.
+para-sol.c is the parallel solution implemented using OpenMP.
